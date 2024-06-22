@@ -1,0 +1,121 @@
+h1.SKIBI{
+    font-size: 20px;
+    color: rgb(38, 37, 35);
+}
+
+.Crank{
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+
+.FC{
+    background-color: rgb(255, 255, 255);
+    border-radius: 10px;
+    height: 60px;
+    margin-top: 15px;
+}
+
+body {
+    background-color: rgb(255, 238, 238);
+}
+
+.JK {
+    font-size: 25px;
+    display: inline;
+    text-align: left;
+    margin-right: 440px;
+    line-height: 60px;
+}
+
+.FV {
+    display: inline;
+    text-align: right;
+    color: rgb(195, 195, 195);
+}
+
+.CRT {
+    display: inline;
+    text-align: left;
+    color: rgb(47, 91, 235);
+    margin-right: 440px;
+    line-height: 60px;
+    font-size: 20px;
+}
+
+.SYB {
+    display: inline;
+    text-align: right;
+    color: rgb(47, 91, 235);
+    font-size: 20px;
+}
+
+#rpg {
+    background-color: rgba(200, 213, 255, 0.934);
+}
+
+.Li {
+    height: 43px;
+    width: 43px;
+    border-radius: 5px;
+    float: left;
+    display: inline;
+    margin-top: 8px;
+    margin-left: 8px;
+
+}
+
+.Bin {
+    height: 27px;
+    width: 22px;
+    float: right;
+    margin-right: 18px;
+    margin-top: 13px;
+    position: relative;
+}
+
+.info {
+    color: gray;
+    margin-left: 5px;
+    margin-top: 0px;
+    display: inline;
+    line-height: 20px;
+    font-size: smaller;
+}
+
+.DRY {
+    display: inline;
+    font-size: larger;
+    text-align: left;
+}
+
+.COL {
+    float: left;
+    padding: 0%;
+    margin-top: 10px;
+    margin-left: 8px;
+}
+
+
+.DRY:hover{
+    text-decoration: underline;
+}
+
+img.Bin:hover{
+top: -4px;
+}
+
+.JK:hover {
+    text-decoration: underline;
+}
+
+.CRT:hover {
+    text-decoration: underline;
+}
+
+.SYB:hover {
+    text-decoration: underline;
+}
+
+
